@@ -1,7 +1,7 @@
-**civilization project**</br>
-1- ilya mahrooghi </br>
-student number: 400110011 </br>
-2- paria hajipour </br>
-student number: 400109605 </br>
-3- ali aghayari </br>
-student number: 400104715 </br>
+# civilization project**</br>
+
+This is my AP course project. It is writtern in java language and uses javafx(for the graphic). Please run main file and enjoy the game.
+
+Here are my teammates: </br>
+1-paria hajipour </br>
+2- ali aghayari </br>
